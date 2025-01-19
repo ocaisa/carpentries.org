@@ -1,0 +1,37 @@
+Version: 7.0
+Codename: noble-prod
+Components: main
+Origin: CERN
+Label: CernVM
+Architectures: amd64 arm64
+Date: Mon, 16 Dec 2024 22:30:21 +0000
+MD5Sum:
+ b57bcdd757510986088ceeb9e36cdab7 2498 main/list.html
+ 5fd3e73068a25c78554d3a2148e8d375 2582 main/binary-arm64/list.html
+ 1dbb6932112183de46ab5fc0233cab72 1626 main/binary-arm64/Packages.gz
+ a78c4bfe7b871d35da60d12016856c98 4681 main/binary-arm64/Packages
+ 19337198e2f3570f91fa9a0b18e191eb 1755 main/binary-arm64/Packages.bz2
+ eac2017817ea8a2a9ff29519fa04da0f 2582 main/binary-amd64/list.html
+ 9f94dc94a708146f7dd0a5332104d136 1808 main/binary-amd64/Packages.gz
+ bd1a9decb0d4e944f220b97421895b14 5329 main/binary-amd64/Packages
+ f2957418bcfb877e81f677ec731b5fe8 1914 main/binary-amd64/Packages.bz2
+SHA1:
+ 65e440df30c62ab3fe9ee9da328f78cce09a7294 2498 main/list.html
+ ddbd4ff5035ec549a57ab8a5cb1f28b114db5668 2582 main/binary-arm64/list.html
+ bb59dd28aa731a74f1e4d9b2d11fc707433d6a0b 1626 main/binary-arm64/Packages.gz
+ f3c350132058e756861728616477551d25debc76 4681 main/binary-arm64/Packages
+ 90fdee03a52397f2c31e9e1e962fcc7f9595ac54 1755 main/binary-arm64/Packages.bz2
+ 118e472311c2647c0f4782a95649574efd0a4511 2582 main/binary-amd64/list.html
+ 579413e994a8fc945ea23ad72288ae81217dcbcc 1808 main/binary-amd64/Packages.gz
+ 6aed2bf3a78b6d05fad7e3643863884014d43b6e 5329 main/binary-amd64/Packages
+ 6f080fb162a528729f0d3c4e1a22fbe01ad454cb 1914 main/binary-amd64/Packages.bz2
+SHA256:
+ 108421b21a8b31a7725fb1322333d66181dafc7a21e08f77bdba8d38e5e8b5eb 2498 main/list.html
+ 3fffb97a00e32eb70757edc33029425d814374738b10fbb5083e4ed5fc1ac6d2 2582 main/binary-arm64/list.html
+ a81cf501083727699540a60f98f38d1f2b016333a58a4e4d2bf41c45bca44bd0 1626 main/binary-arm64/Packages.gz
+ d72f5bb88cb0359d0145154614d074c79bb663efd44e0df082447770a1faf683 4681 main/binary-arm64/Packages
+ e867ccf413e1fcac1a8be96abfb3484dfd357579890fe072c20f7911ac00953d 1755 main/binary-arm64/Packages.bz2
+ 662e7ed41e6a36c8aeaa984272c854313d63d636cb44d2c26fb74fff3341c09a 2582 main/binary-amd64/list.html
+ ba6525475332a7c765df7a36a22facffb2c47f47b74e39609b93c5593b049330 1808 main/binary-amd64/Packages.gz
+ 1763652948317507ffeec4df8515d5c52fd0cde833fa65afee1ffd10599068f3 5329 main/binary-amd64/Packages
+ fae5b5e99bf5e39a224b378ecb2ac0715e9527643e3f18462c018e57eae7b682 1914 main/binary-amd64/Packages.bz2
